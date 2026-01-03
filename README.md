@@ -1,4 +1,5 @@
 # JRest-easy: The Developer-First HTTP Client
+Note - This is a Vibe code project, Most of the code is by AI
 
 **JRest-easy** is a lightweight, fluent wrapper around Spring's `RestClient` designed to make HTTP requests in Java simple, readable, and robust.
 
